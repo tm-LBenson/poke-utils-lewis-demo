@@ -1,5 +1,5 @@
 {
-  "name": "day-4",
+  "name": "poke-utils-lewis-demo",
   "version": "1.0.0",
   "type": "module",
   "exports": "./src/index.js",
